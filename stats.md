@@ -21,7 +21,8 @@ Data and scripts for analysing self-concepts of Digital Humanities Centers
 | 5000 - 10000    | 6    |
 | more than 10000 | 2    |
 Median: 2107
-### statement titles
+### titles of self-concepts
+![Titles of self-concepts](/figures/dh-centers-concept-titles.png)
 | normalized_statement_names |    |     |
 |----------------------------|----|-----|
 | About                      | 28 | 32% |
@@ -32,6 +33,7 @@ Median: 2107
 | Other                      | 4  | 5%  |
 | none                       | 9  | 10% |
 ### global distribution
+![Countries of DH centers](/figures/dh-centers-countries.png)
 | countries |    |
 |-----------|----|
 | USA       | 35 |
