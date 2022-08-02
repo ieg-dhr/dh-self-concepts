@@ -16,8 +16,8 @@ Data and scripts for analysing self-concepts of Digital Humanities Centers
 ## data
 - list of all dh centers from sources: [data/dhcenter-sources.csv](data/dhcenter-sources.csv)
 - index of selected dh centers: [data/dhcenter-index.csv](data/dhcenter-index.csv)
-- subset 1: list of statements used in Text Mining / Topic Modelling corpus: [data/dhcenter-concepts-TM-EN.csv](data/dhcenter-concepts-TM-EN.csv)
-- subset 2: list of annotated statements DACHL (Germany, Austria, Switzerland, Luxembourg): [data/dhcenter-concepts-DACHL.csv](data/dhcenter-concepts-DACHL.csv)
+- subset A: list of statements used in Text Mining / Topic Modelling corpus: [data/dhcenter-concepts-TM-EN.csv](data/dhcenter-concepts-TM-EN.csv)
+- subset B: list of annotated statements DACHL (Germany, Austria, Switzerland, Luxembourg): [data/dhcenter-concepts-DACHL.csv](data/dhcenter-concepts-DACHL.csv)
 
 ## analysis
 - statistics: [stats.md](stats.md)
