@@ -20,6 +20,7 @@ Data and scripts for analysing self-concepts of Digital Humanities Centers
 | 2500 - 5000     | 26   |
 | 5000 - 10000    | 6    |
 | more than 10000 | 2    |
+
 Median: 2107
 ### titles of self-concepts
 ![Titles of self-concepts](/figures/dh-centers-concept-titles.png)
