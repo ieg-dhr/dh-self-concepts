@@ -3,7 +3,7 @@ Data and scripts for analysing self-concepts of Digital Humanities Centers
 
 ## sources | heuristic
 - centerNet, https://dhcenternet.org/
-- eadh, List of Digital Humanities Centres, https://eadh.org/education/digital-humanities-centres
+- EADH, List of Digital Humanities Centres, https://eadh.org/education/digital-humanities-centres
 - Wikipedia, Digital Humanities Center Category, https://en.wikipedia.org/wiki/Category:Digital_Humanities_Centers
 - Web search:
   - "Digital Humanities" AND (Center OR Centre)
