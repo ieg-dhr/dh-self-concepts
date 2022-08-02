@@ -1,5 +1,6 @@
 # dh-self-concepts
-Data and scripts for analysing self-concepts of Digital Humanities Centers
+data and scripts for analysing self-concepts of Digital Humanities Centers\
+dataset and documentation for DHd2023 application
 
 ## sources | heuristic
 - centerNet, https://dhcenternet.org/
