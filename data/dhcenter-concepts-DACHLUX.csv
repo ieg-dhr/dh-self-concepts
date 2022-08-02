@@ -1,0 +1,22 @@
+id,name,orga_type,country,language,statement_url,normalized_statement_names,amount_characters,interdisziplinarität,zusammenarbeit,Austausch,Kollegialität,Experiment,Offenheit
+3,Bereich Historische Fachinformatik,University,DEU,DE,https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/histfi/profil,Profile,4234,Y,Y,Y,N,N,Y
+16,Centre for Information Modelling – ACDH,University,AUT,DE,https://informationsmodellierung.uni-graz.at/de/institut/unser-auftrag/,Mission,3631,N,N,N,N,N,N
+51,Center for Digital Humanities,University,DEU,DE,https://www.uni-muenster.de/CDH/about/profil/index.html,Profile,3076,Y,N,Y,N,N,N
+55,Forschungszentrum Digital Humanities,University,AUT,DE,https://www.uibk.ac.at/digital-humanities/ueber-uns.html,About us,2181,Y,Y,Y,N,N,N
+59, Interdisziplinäre Zentrum für Digitale Geistes- und Sozialwissenschaften (IZdigital) ,University,DEU,DE,https://www.izdigital.fau.de/izdigital/,none,1319,Y,N,N,N,N,N
+69,Department Digital Humanities and Social Studies,University,DEU,DE,https://www.dhss.phil.fau.de/department/ausrichung/,Mission,6436,Y,Y,Y,Y,N,N
+80,Digital Humanities - Wissenschaftliche IT,non-university,DEU,DE,https://www.mpiwg-berlin.mpg.de/de/research-IT,none,1463,N,Y,N,N,N,N
+82,Digital Humanities Lab,University,DEU,DE,https://ub.fau.de/forschen/digital-humanities/digital-humanities-lab/,vision,1532,Y,N,Y,N,Y,N
+87,DHDarmstadt,University,DEU,DE,https://www.digitalhumanities.tu-darmstadt.de/dhdarmstadt,none,4212,Y,Y,Y,N,N,N
+2,Austrian Centre for Digital Humanities – OEAW,non-university,AUT,EN,https://www.oeaw.ac.at/acdh/about/mission,Mission,2203,Y,Y,N,N,N,N
+25,Göttingen Centre for Digital Humanities - GCDH,University,DEU,EN,https://www.gcdh.de/en/about/about-us/,about us,2011,Y,N,N,N,N,N
+46,Trier Center for Digital Humanities,University,DEU,EN,https://tcdh.uni-trier.de/en/profile,mission statement,2580,N,N,N,N,N,N
+52,Ada Lovelace Center for Digital Humanities (ADA),University,DEU,EN,https://www.ada.fu-berlin.de/en/ueber-ada/mission/index.html,Mission,1787,Y,N,N,N,N,N
+53,IT-Gruppe Geisteswissenschaften LMU Center for Digital Humanities (ITG),University,DEU,EN,https://www.osc.uni-muenchen.de/members/institutional-members/it_humanities/index.html,Mission Statement,2107,N,Y,N,N,N,N
+68,Digital History Lab (DHL),University,CHE,EN,https://www.hist.uzh.ch/de/dhl/about.html,mission,4591,N,N,Y,N,N,Y
+79,UNIL-EPFL dhCenter,University,CHE,EN,"https://dhcenter-unil-epfl.ch/en/
+https://dhcenter-unil-epfl.ch/en/about/",about,2002,Y,Y,Y,N,N,Y
+81,BiDataLab Digital Humanites,University,DEU,EN,https://www.uni-bielefeld.de/einrichtungen/bicdas/research/datalabs/digital-humanities/,about,1307,Y,Y,N,N,Y,N
+83,Network Digital Humanities,University,DEU,EN,https://www.uni-potsdam.de/en/digital-humanities/,Vision,1156,Y,N,N,N,N,N
+86,Forum Digital Humanities,University,DEU,EN,https://www.uni-heidelberg.de/en/research/research-profile/fields-of-focus/field-of-focus-iii/research-activities/forum-digital-humanities/working-group,none,2480,N,N,N,N,N,Y
+88,Luxembourg Centre for Contemporary and Digital History (C²DH),University,LUX,EN,https://www.c2dh.uni.lu/about,mission,1182,Y,N,N,N,N,N

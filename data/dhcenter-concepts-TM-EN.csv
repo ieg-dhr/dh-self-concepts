@@ -1,0 +1,79 @@
+id,name,orga_type,country,language,statement_url,normalized_statement_names,amount_characters
+1,Alabama Digital Humanities Center - ADHC,University,USA,EN,https://adhc.lib.ua.edu/about/,About,1638
+2,Austrian Centre for Digital Humanities – OEAW,non-university,AUT,EN,https://www.oeaw.ac.at/acdh/about/mission,Mission,2203
+4,Center for Applied Technologies in the Humanities - CATH,University,CAN,EN,https://circa.ualberta.ca/?page_id=2,About,747
+5,Center for Digital Humanities,University,USA,EN,https://cdh.princeton.edu/about/,Mission,2709
+6,Center for Digital Humanities Perm State University,University,RUS,EN,http://dh.psu.ru/en/,none,4113
+7,Center for Digital Research In Humanities,University,USA,EN,https://cdrh.unl.edu/about/aboutcdrh,About,16143
+8,Center for Digital Scholarship,University,USA,EN,https://library.brown.edu/create/cds/about/,Mission,2092
+9,Center for Geographic Analysis,University,USA,EN,https://gis.harvard.edu/about,About,1465
+10,Center for History and New Media,University,USA,EN,https://rrchnm.org/about/,Mission,1899
+11,Center for Public History - Digital Humanities,University,USA,EN,https://csudigitalhumanities.org/about/mission/,Mission,1523
+12,Center for Humanities and Digital Research (CHDR),University,USA,EN,https://chdr.cah.ucf.edu/about.html,About Us,734
+13,Center of Digital Humanities Research,University,USA,EN,http://codhr.dh.tamu.edu/mission-statement/,Mission Statement,2052
+14,Centre for Digital Humanities,University,CAN,EN,https://www.torontomu.ca/centre-digital-humanities/about/,Mission Statement,3947
+15,Centre for Digital Humanities - Eötvös Loránd University,University,HUN,EN,https://elte-dh.hu/en/about-us/,about us,709
+17,"Centre for Research in Arts, Social Sciences and Humanities",University,GBR,EN,https://www.cdh.cam.ac.uk/about/,About,3757
+19,CSUN Center for the Digital Humanities,University,USA,EN,https://www.csun.edu/digitalhumanities/mission,Mission,4029
+20,Digital Humanities Advanced Research Centre,University,ITA,EN,https://centri.unibo.it/dharc/en/centre/centre-description,About,2979
+21,Digital Humanities Hub,University,AUS,EN,https://cdhr.cass.anu.edu.au/about,About,2890
+22,Digitales,University,ESP,EN,https://linhd.uned.es/what-is-linhd/?lang=en,About,8537
+23,Electronic Textual Cultures Lab,University,CAN,EN,https://etcl.uvic.ca/values/,Values,1767
+24,Emory Center for Digital Scholarship,University,USA,EN,https://digitalscholarship.emory.edu/about/index.html,about,763
+25,Göttingen Centre for Digital Humanities - GCDH,University,DEU,EN,https://www.gcdh.de/en/about/about-us/,about us,2011
+26,HASTAC,University,USA,EN,https://www.hastac.org/about-hastac,about,2861
+27,Humanities and Critical Code Studies (Haccs) Lab,University,USA,EN,http://haccslab.com/about/,about,2692
+28,Humanities Computing and Media Centre,University,CAN,EN,https://www.uvic.ca/humanities/hcmc/aboutus/index.php,about us,2151
+29,Humanities Computing at Leiden University,University,NLD,EN,https://www.universiteitleiden.nl/en/humanities/centre-for-digital-humanities/about,about,2405
+30,Humanities Research Institute - HRI,University,GBR,EN,https://www.sheffield.ac.uk/arts-humanities/research/humanities-research-institute,none,578
+31,HyperStudio,University,USA,EN,http://hyperstudio.mit.edu/about/,Mission,3135
+32,IATH,University,USA,EN,http://www.iath.virginia.edu/mission.html,Mission,3884
+33,Institute for Digital Research in the Humanities,University,USA,EN,https://idrh.ku.edu/mission,mission,2492
+34,Institute for Digital Arts and Humanities,University,USA,EN,https://idah.indiana.edu/about/strat-plan/index.html,About,5549
+35,Interdisciplinary Research & Informatics Scholarship Center,University,USA,EN,https://iris.siue.edu/about/,Mission Statement,9711
+36,Istituto di Linguistica Computazionale,University,ITA,EN,http://www.ilc.cnr.it/en/content/institute,none,2155
+37,King's Digital Lab,University,GBR,EN,https://kdl.kcl.ac.uk/how-we-work/philosophy/,Philosophy,2443
+38,Loyola Center for Textual Studies and Digital Humanities,University,USA,EN,https://www.luc.edu/ctsdh/about/,about,2546
+39,Maryland Institute for Technology in the Humanities (MITH),University,USA,EN,https://mith.umd.edu/values/,Our values,1872
+40,MATRIX Center for Digital Humanities and Social Sciences,University,USA,EN,https://matrix.msu.edu/about,about,1801
+41,Oxford e-Research Centre,University,GBR,EN,https://oerc.ox.ac.uk/about/,about,1531
+42,Research in Computing for Humanities,University,USA,EN,https://www.rch.uky.edu/index.html,mission statement,1413
+43,Scholar's Lab,University,USA,EN,https://scholarslab.lib.virginia.edu/about/,about,19582
+44,Stanford Literary Lab,University,USA,EN,https://litlab.stanford.edu/,about,1985
+45,The Lewis and Ruth Sherman Centre for Digital Scholarship,University,CAN,EN,https://scds.ca/what-we-do/,about,939
+46,Trier Center for Digital Humanities,University,DEU,EN,https://tcdh.uni-trier.de/en/profile,mission statement,2580
+47,University of Arizona Center for Digital Humanities,University,USA,EN,https://digitalhumanities.arizona.edu/about,about,1231
+48,University of California Humanities Research Institute,University,USA,EN,https://uchri.org/about,about,7103
+49,Vanderbilt University Center for Digital Humanities,University,USA,EN,https://www.vanderbilt.edu/digitalhumanities/,Our mission,3332
+50,Yale University Digital Humanities Lab,University,USA,EN,https://dhlab.yale.edu/about.html,Our mission,2958
+52,Ada Lovelace Center for Digital Humanities (ADA),University,DEU,EN,https://www.ada.fu-berlin.de/en/ueber-ada/mission/index.html,Mission,1787
+53,IT-Gruppe Geisteswissenschaften LMU Center for Digital Humanities (ITG),University,DEU,EN,https://www.osc.uni-muenchen.de/members/institutional-members/it_humanities/index.html,Mission Statement,2107
+54,Digital Humanities Center Barnard College,University,USA,EN,https://digitalhumanities.barnard.edu/what-we-do-3,Our Values,848
+56,Ghent Centre for Digital Humanities,University,BEL,EN,https://www.ghentcdh.ugent.be/centre,About,1775
+57,"The Walter J. Ong, S.J., Center for Digital Humanities",University,USA,EN,https://www.slu.edu/arts-and-sciences/ong-center/index.php,mission,1490
+58,"Center for Digital Humanities, Pune",non-university,IND,EN,https://cdhpune.com/about/aims-and-objectives/,Aims and Objectives,855
+60,Centre for Digital Humanities,University,NLD,EN,http://www.centrefordigitalhumanities.nl/organisation/,about,2525
+61,HSE Centre for Digital Humanities,University,RUS,EN,https://hum.hse.ru/en/digital/about,about,1343
+62,Centre pour Les humAnités nuMériques et l'histOiRe de la justice (CLAMOR),non-university,FRA,EN,https://clamor.criminocorpus.org/missions-and-goals/,Mission and Goals,1891
+63,CETAPS Digital Laboratory,non-university,PRT,EN,https://www.cetaps.com/digitallab/the-centre/,"Misson, values",833
+64,Digital Humanities Centre at the Institute of Literary Research of the Polish Academy of Sciences ,non-university,POL,EN,http://chc.ibl.waw.pl/en/,vision,2067
+65,Venice Centre for Digital and Public Humanities (VeDPH),University,ITA,EN,https://www.unive.it/pag/39289/,none,1642
+66,Digital Transformations Hub,University,GBR,EN,https://www.nottingham.ac.uk/artsdigitalhub/our-vision.aspx,Our Vision,1081
+67,Simpson Center for the Humanities,University,USA,EN,https://simpsoncenter.org/about/history,about,6716
+68,Digital History Lab (DHL),University,CHE,EN,https://www.hist.uzh.ch/de/dhl/about.html,mission,4591
+70,DIGHUMLAB Digital Humanites Lab Denmark,University,DNK,EN,https://dighumlab.org/about/,"vision, mission, values",3365
+71,Digital Humanities Lab,University,GBR,EN,https://humanities.exeter.ac.uk/research/digital/strategy/,digital strategy,2651
+72,Digital Humanities Laboratory (DH Lab),non-university,ITA,EN,https://www.khi.fi.it/de/forschung/digital-humanities/index.php,mission,2713
+73,Center of Digital Humanities Research (CoDHR),University,USA,EN,https://codhr.dh.tamu.edu/mission-statement/,mission statement,1761
+74,IUP Center for Digital Humanities and Culture (DHC),University,USA,EN,http://dhc.chss.iup.edu/mission-2/,mission,571
+75,Institute for Digital Research in the Humanities (IDRH),University,USA,EN,https://idrh.ku.edu/mission,mission,2492
+76,Digital Humanities at Michigan State University (DH@MSU) ,University,USA,EN,https://digitalhumanities.msu.edu/mission/,mission statement,1815
+77,Digital Humanities Research Cluster,University,AUS,EN,https://www.uwa.edu.au/schools/Research/Digital-Humanities-Research-Cluster,about us,743
+78,Sydney Digital Humanities Research Group,University,AUS,EN,https://www.sydney.edu.au/arts/our-research/research-projects/sydney-digital-humanities-research-group.html,about,699
+79,UNIL-EPFL dhCenter,University,CHE,EN,"https://dhcenter-unil-epfl.ch/en/, https://dhcenter-unil-epfl.ch/en/about/",about,2002
+81,BiDataLab Digital Humanites,University,DEU,EN,https://www.uni-bielefeld.de/einrichtungen/bicdas/research/datalabs/digital-humanities/,about,1307
+83,Network Digital Humanities,University,DEU,EN,https://www.uni-potsdam.de/en/digital-humanities/,Vision,1156
+84,Centre for Digital Humanities (CEDHUL) ,University,NGA,EN,https://www.cedhul.com.ng/about-us/,Profile,4537
+85,Digital Humanities Laboratory,University,NOR,EN,https://www.nb.no/en/forskning/digital-humanities-laboratory/,none,4505
+86,Forum Digital Humanities,University,DEU,EN,https://www.uni-heidelberg.de/en/research/research-profile/fields-of-focus/field-of-focus-iii/research-activities/forum-digital-humanities/working-group,none,2480
+88,Luxembourg Centre for Contemporary and Digital History (C²DH),University,LUX,EN,https://www.c2dh.uni.lu/about,mission,1182
