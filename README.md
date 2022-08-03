@@ -21,5 +21,5 @@ dataset and documentation for DHd2023 application
 - subset B: list of annotated statements DACHL (Germany, Austria, Switzerland, Luxembourg): [data/dhcenter-concepts-DACHL.csv](data/dhcenter-concepts-DACHL.csv)
 
 ## analysis
-- statistics: [stats.md](stats.md)
-- topic modelling: [topics.md](topics.md)
+- metadata | statistics: [stats.md](stats.md)
+- text mining | topic modelling: [topics.md](topics.md)
