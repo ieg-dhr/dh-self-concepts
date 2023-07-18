@@ -1,8 +1,7 @@
-# dh-self-concepts
-data and scripts for analysing self-concepts of Digital Humanities Centers
-dataset and documentation for DHd2023 application
+# dataset Digital Humanities Centers Self-Concepts
+data and scripts for analysing the public self-concepts of selected digital humanities centres
 
-## stats
+## statistics
 ### languages
 | languages |    |       |
 |----------|----|-------|
@@ -23,6 +22,7 @@ dataset and documentation for DHd2023 application
 | more than 10000 | 2    |
 
 Median: 2107
+
 ### titles of self-concepts
 ![Titles of self-concepts](/figures/dh-centers-concept-titles.png)
 | normalized_statement_names |    |     |
@@ -34,6 +34,7 @@ Median: 2107
 | Profile                    | 3  | 3%  |
 | Other                      | 4  | 5%  |
 | none                       | 9  | 10% |
+
 ### global distribution
 ![Countries of DH centers](/figures/dh-centers-countries.png)
 | countries |    |

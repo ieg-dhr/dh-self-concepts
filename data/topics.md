@@ -1,6 +1,5 @@
-# dh-self-concepts
-data and scripts for analysing self-concepts of Digital Humanities Centers
-dataset and documentation for DHd2023 application
+# dataset Digital Humanities Centers Self-Concepts
+data and scripts for analysing the public self-concepts of selected digital humanities centres
 
 ## topic modelling
 ![Topics in self-concepts](/figures/dh-centers-topics.png)
